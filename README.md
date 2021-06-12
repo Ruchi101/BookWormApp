@@ -6,9 +6,9 @@
     Flutter
     Flask
     
-![alt text](https://github.com/Ayush789/iitr-libraryassistant/blob/master/main.jpeg)
-![alt text](https://github.com/Ayush789/iitr-libraryassistant/blob/master/search.jpeg)
-![alt text](https://github.com/Ayush789/iitr-libraryassistant/blob/master/yourbooks.jpeg)
-![alt text](https://github.com/Ayush789/iitr-libraryassistant/blob/master/drawer.jpeg)
+![alt text](https://github.com/Ruchi101/iitr-libraryassistant/blob/master/main.jpeg)
+![alt text](https://github.com/Ruchi101/iitr-libraryassistant/blob/master/search.jpeg)
+![alt text](https://github.com/Ruchi101/iitr-libraryassistant/blob/master/yourbooks.jpeg)
+![alt text](https://github.com/Ruchi101/iitr-libraryassistant/blob/master/drawer.jpeg)
 
 
